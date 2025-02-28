@@ -1,2 +1,2 @@
 # SpaceView
-A android application that supports 3d view of any model
+A Repository to hold short weekend projects mostly build using python
