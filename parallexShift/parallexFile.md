@@ -1,0 +1,2 @@
+# Parallex Shift
+**It is a python script which can be used to track parallax shift which occurs when looking at distance spatial objects it is a technique used for thousands of years and can give distance of the object if we know the diferrence between measuring angles and the distance between observers [Parrallax](https://en.wikipedia.org/wiki/Parallax)**
