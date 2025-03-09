@@ -25,6 +25,9 @@ print(text)
 additions = []
 deletions = []
 
+addition = 0
+deletion = 0
+
 x_axis = []
 for i in range(0, min(len(text), 12)):
     x_axis.append(i)
@@ -33,7 +36,6 @@ for i in range(0, min(len(text), 12)):
     curr_sha = text[i]['sha']
     
     r = requests.get(f'{url}/{curr_sha}')
-    print(url + curr_sha)
     commit_details = r.json()
 
     for file in commit_details['files']:
