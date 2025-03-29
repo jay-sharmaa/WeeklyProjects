@@ -7,3 +7,4 @@ A Repository to hold short weekend projects mostly built using Python.
 | 2    | Python   | [gitStrengthChecker](https://github.com/jay-sharmaa/WeeklyProjects/tree/main/gitStrengthChecker) | [description](https://github.com/jay-sharmaa/WeeklyProjects/tree/main/gitStrengthChecker/gitStrengthChecker.md) |
 | 3    | Python   | [eyeTracking](https://github.com/jay-sharmaa/WeeklyProjects/tree/main/eyeTracking) | [description](https://github.com/jay-sharmaa/WeeklyProjects/tree/main/eyeTracking/eyeTracking.md)
 | 4    | Python   | [poseEstimation](https://github.com/jay-sharmaa/WeeklyProjects/tree/main/poseEstimator) | [description](https://github.com/jay-sharmaa/WeeklyProjects/tree/main/poseEstimator/poseEstimator.md)
+| 5    | Python   | [estimateapksize](https://github.com/jay-sharmaa/WeeklyProjects/tree/main/estimateapksize) | [description](https://github.com/jay-sharmaa/WeeklyProjects/tree/main/estimateapksize/estimateapksize.md)
