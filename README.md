@@ -10,3 +10,4 @@ A Repository to hold short weekend projects mostly built using Python.
 | 4    | Python   | [poseEstimation](https://github.com/jay-sharmaa/WeeklyProjects/tree/main/poseEstimator) | [description](https://github.com/jay-sharmaa/WeeklyProjects/tree/main/poseEstimator/poseEstimator.md)
 | 5    | Python   | [estimateapksize](https://github.com/jay-sharmaa/WeeklyProjects/tree/main/estimateapksize) | [description](https://github.com/jay-sharmaa/WeeklyProjects/tree/main/estimateapksize/estimateapksize.md)
 | 3    | Python   | [eyeTracking](https://github.com/jay-sharmaa/WeeklyProjects/tree/main/eyeTracking) | [description](https://github.com/jay-sharmaa/WeeklyProjects/tree/main/eyeTracking/eyeTracking.md)
+| 8    | Python   | [kmeans_song_analysis](https://github.com/jay-sharmaa/WeeklyProjects/tree/main/kmeans_song_analysis) | [description](https://github.com/jay-sharmaa/WeeklyProjects/tree/main/kmeans_song_analysis/kmeans_song_analysis.md)
