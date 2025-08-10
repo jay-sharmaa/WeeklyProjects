@@ -32,7 +32,9 @@ def build_follower(root_user, max_followers=5, max_depth=2):
     dfs(root_user, 1)
     return G
 
-root = "jay-sharmaa"
+name = input('Enter user name ')
+
+root = name
 graph = build_follower(root, max_followers=50)
 
 plt.figure(figsize=(12, 8))
