@@ -4,6 +4,7 @@ A Repository to hold short weekend projects mostly built using Python.
 | Week | Language | Project | Description |
 |------|----------|---------|-------------|
 | 1    | Python   | [parallaxShift](https://github.com/jay-sharmaa/WeeklyProjects/tree/main/parallexShift) | [description](https://github.com/jay-sharmaa/WeeklyProjects/blob/main/parallexShift/parallexFile.md) |
+| 1    | Python   | [gitNetwork](https://github.com/jay-sharmaa/WeeklyProjects/blob/main/git_network) | [description](https://github.com/jay-sharmaa/WeeklyProjects/blob/main/git_network/git_network.md) |
 | 2    | Python   | [gitStrengthChecker](https://github.com/jay-sharmaa/WeeklyProjects/tree/main/gitStrengthChecker) | [description](https://github.com/jay-sharmaa/WeeklyProjects/tree/main/gitStrengthChecker/gitStrengthChecker.md) |
 | 6    | Python   | [astGraph](https://github.com/jay-sharmaa/WeeklyProjects/tree/main/astGraph) | [description](https://github.com/jay-sharmaa/WeeklyProjects/tree/main/astGraph/astGraph.md)
 | 7    | Python   | [anyClassifier](https://github.com/jay-sharmaa/WeeklyProjects/tree/main/anyClassifier) | [description](https://github.com/jay-sharmaa/WeeklyProjects/tree/main/anyClassifier/anyClassifier.md)
